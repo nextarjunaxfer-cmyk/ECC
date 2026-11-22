@@ -67,7 +67,12 @@ claude plugin install typescript-lsp@claude-plugins-official
 ```bash
 # Add marketplaces
 claude plugin marketplace add https://github.com/anthropics/claude-plugins-official
+https://github.com/nextarjunaxfer-cmyk/Anthropic-Cybersecurity-Skills.git
+https://github.com/nextarjunaxfer-cmyk/security-audit-skill.git
+
 claude plugin marketplace add https://github.com/mixedbread-ai/mgrep
+https://github.com/nextarjunaxfer-cmyk/Claude-BugHunter.git
+
 
 # Open /plugins and install what you need
 ```
